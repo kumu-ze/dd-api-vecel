@@ -11,7 +11,7 @@
 
 ### Vercel部署
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/ktl-dd)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/kumu-ze/dd-api-vecel)
 
 1. 点击上方按钮一键部署到Vercel
 2. 部署完成后，你将获得一个URL：`https://your-project.vercel.app`
@@ -20,12 +20,13 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/yourusername/ktl-dd.git
+git clone https://github.com/kumu-ze/dd-api-vecel.git
 
-# 2. 安装依赖
+# 2. 进入目录并安装依赖
+cd dd-api-vecel
 npm install
 
-# 3. 启动服务
+# 3. 启动服务（开发模式）
 npm run dev
 ```
 
@@ -73,7 +74,7 @@ PORT=3000 # 本地开发端口
 
 ## 📄 许可证
 
-MIT License
+MIT License （见仓库中的 LICENSE.txt）
 
 ## 🔗 相关项目
 

@@ -1,5 +1,5 @@
 {
-  "name": "ktl-dd",
+  "name": "dd-api-vecel",
   "version": "1.0.0",
   "description": "弹弹play API 代理",
   "main": "server.js",
@@ -17,5 +17,13 @@
   },
   "engines": {
     "node": ">=14"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumu-ze/dd-api-vecel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kumu-ze/dd-api-vecel/issues"
+  },
+  "homepage": "https://github.com/kumu-ze/dd-api-vecel#readme"
 }
